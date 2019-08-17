@@ -1,1 +1,1 @@
-# KinaseInhibitorGan
+# KInGAN
