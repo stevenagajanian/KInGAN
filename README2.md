@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mol-CycleGAN - a generative model for molecular optimization
 Official implementation of Mol-CycleGAN for molecular optimization.
 
@@ -62,3 +63,6 @@ We provide all the data and code needed to reproduce the `Aromatic rings` experi
 ## Disclaimer
 The code for Mol-Cycle-Gan was natively written in Python3, however, the JT-VAE package is written in Python2. To ensure the ease of use, we used downgraded versions of packages, so that the entire experiment can be run in a single environment.
 Since many of those packages are outdated, we strongly recommend using the ```environment.yml``` file provided to construct the working environment.
+=======
+# KInGAN
+>>>>>>> d45b142c4c381d44b9080de0d2aafa863fd88a54
